@@ -3,6 +3,7 @@
 
 The documentation file in the repository(found at the top of the files section) consists of all the primary details of the project including the methodology followed. The ipynb notebook can also be found within the main directory under the same name. Both of these can be referred to have a deep dive into the aforementioned project.
 
+![image](https://user-images.githubusercontent.com/102503431/210940025-366903bc-36a7-49f8-a388-bf4080720c29.png)
 
 Analysis of COVID-19 can unearth a rich array of possibilities, predictions and insights due to a plethora of available data from different domains which sometimes not only helps us develop some intuition from the past, but also make us understand how might our future stand. My current goal in this data movement against COVOD-19 is to understand how the disease has affected us at an even more microscopic level such as counties and states within the United States before diving deep into the global level where even diverse fields of data is available to use. 
 
